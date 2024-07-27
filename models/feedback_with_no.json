@@ -1,0 +1,20 @@
+[
+    {
+        "comment": "ఎందిరా సామి ఆ పిచ్చోడి ని ఒక లపాకిని తగులుకున్నట్లు తగులుకున్నావ్",
+        "sentiment": "Yes",
+        "emotion": "Yes",
+        "intent": "Yes",
+        "toxicity": "No",
+        "sarcasm": "Yes",
+        "spam": "Yes"
+    },
+    {
+        "comment": "చెడ్డవాడు\n\n",
+        "sentiment": "No",
+        "emotion": "Yes",
+        "intent": "Yes",
+        "toxicity": "Yes",
+        "sarcasm": "Yes",
+        "spam": "Yes"
+    }
+]
